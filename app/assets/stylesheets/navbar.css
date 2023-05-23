@@ -1,0 +1,23 @@
+#navbar{
+  justify-content: space-between;
+  display: flex;
+  height: 50px;
+  align-items: center;
+  background-color: #f7f7f7;
+  margin-bottom: 20px;
+ }
+
+
+ #navbar h3 {
+  padding: 10px;
+  color: #777777;
+ }
+
+ #navbar a {
+  color: #777;
+  padding-right: 20px;
+ }
+
+ #navbar a:hover {
+  color: black;
+ }

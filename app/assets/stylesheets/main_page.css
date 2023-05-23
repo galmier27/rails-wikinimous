@@ -1,0 +1,16 @@
+.container ul {
+
+  text-align: left;
+  margin-left: 35%;
+}
+
+
+.container ul a {
+  color: #337ab7;
+  text-decoration: none;
+}
+
+.container ul a:hover {
+  color: red;
+  text-decoration: underline !important;
+}

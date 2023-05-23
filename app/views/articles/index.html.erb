@@ -1,0 +1,10 @@
+<div class=" text-center">
+  <ul>
+  <% @articles.each do |article| %>
+    <li><h2><%= link_to article.title, article_path(article), id: "link_to"%></h2></li>
+  <% end %>
+  </ul>
+
+
+
+</div>

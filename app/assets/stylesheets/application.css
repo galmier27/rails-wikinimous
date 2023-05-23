@@ -13,3 +13,16 @@
  *= require_tree .
  *= require_self
  */
+ @import url(/app/assets/stylesheets/navbar.css);
+ @import url(/app/assets/stylesheets/main_page.css);
+ @import url(/app/assets/stylesheets/show.css);
+
+
+ li {
+  list-style-type: none;
+
+ }
+
+a {
+  text-decoration: none !important;
+ }
